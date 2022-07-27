@@ -1,0 +1,4 @@
+const TELEGRAM_TOKEN = "5206734985:AAFaOR1H8H83K7X5yggamJXsmhru84NErDM"
+module.exports = {
+    TELEGRAM_TOKEN
+}

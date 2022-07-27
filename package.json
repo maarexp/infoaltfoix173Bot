@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/maarexp/infoaltfoix173Bot/issues"
     },
-    "homepage": "https://github.com/maarexp/infoaltfoix173Bot#readme"
+    "homepage": "https://github.com/maarexp/infoaltfoix173Bot#readme",
+    "dependencies": {
+        "telebot": "^1.4.1"
+    }
 }
