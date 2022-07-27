@@ -1,0 +1,20 @@
+{
+    "name": "infoaltfoix173bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maarexp/infoaltfoix173Bot.git"
+    },
+    "author": "Edu Martínez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/maarexp/infoaltfoix173Bot/issues"
+    },
+    "homepage": "https://github.com/maarexp/infoaltfoix173Bot#readme"
+}
